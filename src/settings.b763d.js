@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-desktop",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/scenes/login.fire",orientation:"portrait",jsList:["assets/scripts/commons/lodash.72bc9.js"],bundleVers:{internal:"52d36",resources:"cfce3",main:"ad77d"}};
